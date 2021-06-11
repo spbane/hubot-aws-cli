@@ -5,13 +5,9 @@ hubot-aws-cli is a Hubot plugin which is inspired by an ambition to provide hubo
 ## Credit & divergence
 
 This project was uses below 3 important projects in order to accomplish its use case.
-1. [Hubot] [hubot]
-2. [ShellJS] [shelljs]
-3. [AWS CLI v2] [awscliv2]
-
-[hubot]: http://hubot.github.com
-[shelljs]: https://documentup.com/shelljs/shelljs
-[awscliv2]: https://docs.aws.amazon.com/cli/index.html
+1. [Hubot](http://hubot.github.com)
+2. [ShellJS](https://documentup.com/shelljs/shelljs)
+3. [AWS CLI v2](https://docs.aws.amazon.com/cli/index.html)
 
 ## Configuration
 
