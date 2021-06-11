@@ -27,7 +27,7 @@ Though this project is usable off the shelf. In case if you wish to use base Hub
 
 ## Commands
 
-### List Instances
+### List Instance
 
 #### EC2 Describe Instances
 ```
