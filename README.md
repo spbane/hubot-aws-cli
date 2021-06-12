@@ -20,10 +20,7 @@ Though this project is usable off the shelf. In case if you wish to use base Hub
 
 > npm install hubot-slack --save
 
-& then proceed to have your [Coffee Scripts] [coffee] & [Shell Scripts] [shell] in `scripts` directory.
-
-[coffee]: https://coffeescript.org/
-[shell]: https://devdocs.io/bash/
+& then proceed to have your [Coffee Scripts](https://coffeescript.org/) & [Shell Scripts](https://devdocs.io/bash/) in `scripts` directory.
 
 ## Commands
 
