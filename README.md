@@ -16,10 +16,12 @@ Though this project is usable off the shelf. In case if you wish to use base Hub
 ###### Pre-Requisite : [In case if you are using Windows]
 ```For Yeoman to work add : C:\Users\<username>\AppData\Roaming\npm this to your path ```
 
-> npm install shelljs --save
-
-> npm install hubot-slack --save
-
+``` 
+npm install shelljs --save
+```
+```
+npm install hubot-slack --save
+```
 & then proceed to have your [Coffee Scripts](https://coffeescript.org/) & [Shell Scripts](https://devdocs.io/bash/) in `scripts` directory.
 
 ## Commands
